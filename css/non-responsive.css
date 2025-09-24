@@ -19,6 +19,11 @@ body {
   margin-bottom: 10px;
 }
 
+.name-kaiti {
+  font-family: "KaiTi", "楷体", "STKaiti", "STKaiTi", "华文楷体", serif;
+  /* 可选：微调大小或粗细以和英文保持视觉平衡 */
+  /* font-size: 1.05em; font-weight: 500; */
+}
 
 
 /* Non-responsive overrides
